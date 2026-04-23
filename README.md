@@ -192,7 +192,7 @@ Projet académique / prototype – droits réservés à l’équipe SmartAirCare
 ## 📬 Contact
 
 Pour toute collaboration ou partenariat :
-- Email : professional.gallie@gmail.com *(à adapter)*
+- Email : professional.gallie@gmail.com 
 
 ---
 
